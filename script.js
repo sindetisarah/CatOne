@@ -17,7 +17,10 @@ function carousel() {
 }
 
 function Book(){
-  alert("Hello There")
+  var company_name = document.getElementById("company_name").value;
+  var phone_number = document.getElementById("phone_number").value;
+  var location = document.getElementById("location").value;
+  alert(`${company_name},${phone_number},${location}`)
 }
 
 
