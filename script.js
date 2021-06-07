@@ -23,7 +23,7 @@ function carousel() {
 // Remember in the corousel we had different images or rather more than one image .
 // We threfore loop through them at different intervals of 3000 milliseconds and display them
 
-//In simple term here we have a call back function of which it is the set timeout.
+//In simple term here we have a call back function of which it is the carousel.
 // The setimeout here registers the function carousel which is to be invoked after 3000 milliseconds
 //With our most important methods like getElementByClassName we access the different sets of pictures and display them in a slide show
 // //created a function
