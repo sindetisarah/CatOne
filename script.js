@@ -34,6 +34,7 @@ function Book(){
   var location = document.getElementById("location").value;
   var date = document.getElementById("date").value;
   var time=document.getElementById("time").value;
+ 
   alert(`Registered your company${company_name}, and phone number${phone_number}, location${location} booking date${date} and booking time${time}`)
 }
 
